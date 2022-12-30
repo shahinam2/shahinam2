@@ -10,10 +10,6 @@ I have worked as Network Engineer/Administrator/Help-desk in the past and I spec
 * ✉️  You can contact me at [shahin.ccie1989@gmail.com](mailto:shahin.ccie1989@gmail.com)
 * 🧠  I'm learning AWS Certified SysOps administrator, Terraform, React
 
-<a href="https://www.github.com/shahinam2" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shahinam2?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/cl0udfriendly" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/cl0udfriendly?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
