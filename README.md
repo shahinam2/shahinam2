@@ -9,7 +9,7 @@ I have worked as Network Engineer/Administrator/Help-desk in the past and I spec
 * 🌍 I'm based in Borgholahausen, DE
 * ✉️ You can contact me at [shahin.ccie1989@gmail.com](mailto:shahin.ccie1989@gmail.com)
 * 🧠 I'm currently learning AWS Certified SysOps administrator, Terraform, React
-* 🧾 My online resume can be found <a href="https://shahin.thefabwebdev.com/" target="_blank">Here</a>
+* 🧾 My online resume can be found <a href="https://shahin-hemmati.me" target="_blank">Here</a>
 
 
 ### Skills
