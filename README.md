@@ -94,6 +94,8 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white)
 
 ---
+[![roadmap.sh](https://roadmap.sh/card/tall/64d8fb6faa497d7fa530069b?variant=dark)](https://roadmap.sh)
+---
 [![](https://visitcount.itsvg.in/api?id=shahinam2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
