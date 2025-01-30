@@ -1,11 +1,14 @@
-## About Me:
+## About Me
 I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy the process every day.<br>My aim is to deliver high-quality services with the highest standards and cutting-edge DevOps technologies to make people's lives easier.
 
-## Contact:
+## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahin-hemmati) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cl0udfriendly)
-[![DevOpsDetours.com](https://img.shields.io/badge/Website-%23121011.svg?logo=web&logoColor=white)](https://devopsdetours.com)
+[![DevOpsDetours.com](https://img.shields.io/badge/Website-%23121011.svg?logo=web&logoColor=white)](https://devopsdetours.com) 
 
-## 💻 Tech Stack:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Projects 
+Coming soon
+
+## 💻 Tech Stack
 
 ### Cloud Providers
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -69,7 +72,6 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%232177E5.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-2C2D72?style=for-the-badge&logo=Proxmox&logoColor=white)
 
-
 ### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
@@ -93,9 +95,9 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white)
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> DevOps Roadmap Progress 
 [![roadmap.sh](https://roadmap.sh/card/tall/64d8fb6faa497d7fa530069b?variant=dark)](https://roadmap.sh)
----
+
 [![](https://visitcount.itsvg.in/api?id=shahinam2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
