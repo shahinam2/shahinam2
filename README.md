@@ -18,6 +18,11 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+### CI/CD Tools
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
 ### DevOps Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/docker_swarm-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -29,6 +34,10 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Nexus](https://img.shields.io/badge/nexus-%231A1918.svg?style=for-the-badge&logo=sonatype&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS%20ECR-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![DockerHub](https://img.shields.io/badge/dockerhub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Packages](https://img.shields.io/badge/github%20packages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab Packages](https://img.shields.io/badge/gitlab%20packages-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Programming Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,49 +61,6 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### VCS & CI/CD Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Container Registries
-![AWS ECR](https://img.shields.io/badge/AWS%20ECR-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![DockerHub](https://img.shields.io/badge/dockerhub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Packages](https://img.shields.io/badge/github%20packages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab Packages](https://img.shields.io/badge/gitlab%20packages-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Virtualization
-![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=VMware&logoColor=white)
-![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=VMware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-%232177E5.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-2C2D72?style=for-the-badge&logo=Proxmox&logoColor=white)
-
-### Operating Systems
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-![Raspian](https://img.shields.io/badge/Raspian-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
-![Thonny](https://img.shields.io/badge/Thonny-000000?style=for-the-badge&logo=Thonny&logoColor=white)
-
-### Project Management Tools
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![asana](https://img.shields.io/badge/asana-%231F8CE6.svg?style=for-the-badge&logo=asana&logoColor=white)
-![notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-### Collaboration Tools
-![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> DevOps Roadmap Progress 
 [![roadmap.sh](https://roadmap.sh/card/tall/64d8fb6faa497d7fa530069b?variant=dark)](https://roadmap.sh)
