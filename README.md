@@ -3,7 +3,8 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahin-hemmati) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cl0udfriendly)
-[![DevOpsDetours.com](https://img.shields.io/badge/Website-%23121011.svg?logo=web&logoColor=white)](https://devopsdetours.com) 
+[![DevOpsDetours.com](https://img.shields.io/badge/Website-%23121011.svg?logo=web&logoColor=white)](https://devopsdetours.com) [![Email](https://img.shields.io/badge/Email-%23121011.svg?logo=gmail&logoColor=white)](mailto:shahin.hemmati@devopsdetours.com)
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Projects (Newest to Oldest)
  1. [PDFPal (Backend only)](https://github.com/shahinam2/PDFPal-Backend)
