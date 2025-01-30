@@ -34,10 +34,6 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Nexus](https://img.shields.io/badge/nexus-%231A1918.svg?style=for-the-badge&logo=sonatype&logoColor=white)
-![AWS ECR](https://img.shields.io/badge/AWS%20ECR-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![DockerHub](https://img.shields.io/badge/dockerhub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Packages](https://img.shields.io/badge/github%20packages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab Packages](https://img.shields.io/badge/gitlab%20packages-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Programming Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
