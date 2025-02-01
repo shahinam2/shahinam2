@@ -49,9 +49,11 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Web Servers
+### Web Servers / Reverse Proxies
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/caddy-%23E74E3C.svg?style=for-the-badge&logo=caddy&logoColor=white)
+![Traefik](https://img.shields.io/badge/traefik-%23FFD43B.svg?style=for-the-badge&logo=traefik&logoColor=white)
 
 ### Observability & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
