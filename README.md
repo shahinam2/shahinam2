@@ -27,13 +27,19 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/docker_swarm-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Nexus](https://img.shields.io/badge/nexus-%231A1918.svg?style=for-the-badge&logo=sonatype&logoColor=white)
+
+### Infrastructure as Code (IaC)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-%232671E5.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Pulumi](https://img.shields.io/badge/pulumi-%23F37821.svg?style=for-the-badge&logo=pulumi&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-%2300BFFF.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ### Programming Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
