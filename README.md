@@ -13,7 +13,7 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742832378884/e5d0bb47-1bab-441f-a300-5f9564bacfd9.png" width="500" height="auto" /></td>
 			<td>
 				<sup>Mar 24, 2025 - 11 min read</sup><br />
-				<b>AWS VPC Subnetting Guide: Step-by-Step Planning Made Easy with Visual Tools</b>
+                <b><a href="https://devopsdetours.com/aws-vpc-subnetting-guide-step-by-step-planning-made-easy-with-visual-tools" target="_blank">AWS VPC Subnetting Guide: Step-by-Step Planning Made Easy with Visual Tools</a></b>
 				<p>If you've ever tried creating a custom VPC in AWS, you’ve probably run into the question:
                 "What CIDR block should I use?" ...</p>
 			</td>
@@ -22,7 +22,7 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739137627783/a24a01a5-ea8b-44fb-9b0a-8152ecafdccf.png" width="500" height="auto" /></td>
 			<td>
 				<sup>Feb 12, 2025 - 16 min read</sup><br />
-				<b>How to Efficiently Handle Several AWS Accounts: 6 Proven Methods</b>
+				<b><a href="https://devopsdetours.com/how-to-efficiently-handle-several-aws-accounts-6-proven-methods" target="_blank"> How to Efficiently Handle Several AWS Accounts: 6 Proven Methods</a></b>
 				<p>As cloud practitioners, we follow best practices and use multi-account environments. This frequently led to situations where ...</p>
 			</td>
 		</tr>
@@ -30,7 +30,9 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1738409332065/5c166bca-c4a6-4aac-888e-896e7d70fd7e.png" width="500" height="auto" /></td>
 			<td>
 				<sup>Feb 1, 2025 - 6 min read</sup><br />
-				<b>How to Install & Run DeepSeek R1 Locally with GUI on Windows, Linux, and macOS | Step-by-Step Guide</b>
+				<b>
+                <a href="https://devopsdetours.com/how-to-install-run-deepseek-r1-locally-with-gui-on-windows-linux-and-macos-step-by-step-guide" target="_blank">
+                How to Install & Run DeepSeek R1 Locally with GUI on Windows, Linux, and macOS | Step-by-Step Guide</a></b>
 				<p>DeepSeek-R1 is an advanced open-source artificial intelligence model developed by the Chinese startup DeepSeek. It is designed to excel in complex reasoning tasks, including mathematics, coding, and logical problem-solving. Notably, DeepSeek-R1 achieves...</p>
 			</td>
 		</tr>
@@ -38,7 +40,7 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1736677764624/8df0de10-7be9-4b63-a568-38c42abc945f.png" width="500" height="auto" /></td>
 			<td>
 				<sup>Jan 12, 2025 - 8 min read</sup><br />
-				<b>How to Remove Sensitive Data from Git History: 2 Tools Explained</b>
+				<b> <a href="https://devopsdetours.com/how-to-remove-sensitive-data-from-git-history-2-tools-explained"> How to Remove Sensitive Data from Git History: 2 Tools Explained</a></b>
 				<p>Accidentally committing sensitive information, such as API keys, passwords, or personal data like phone numbers, to a Git-based version control system can happen to anyone...</p>
 			</td>
 		</tr>
