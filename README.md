@@ -13,7 +13,7 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742832378884/e5d0bb47-1bab-441f-a300-5f9564bacfd9.png" width="500" height="auto" /></td>
 			<td>
 				<sup>Mar 24, 2025 - 11 min read</sup><br />
-				<b><a href="https://devopsdetours.com/aws-vpc-subnetting-guide-step-by-step-planning-made-easy-with-visual-tools" target="_blank" rel="noopener noreferrer">AWS VPC Subnetting Guide: Step-by-Step Planning Made Easy with Visual Tools</a></b>
+				<b><a href="https://devopsdetours.com/aws-vpc-subnetting-guide-step-by-step-planning-made-easy-with-visual-tools" target="_blank">AWS VPC Subnetting Guide: Step-by-Step Planning Made Easy with Visual Tools</a></b>
 				<p>If you've ever tried creating a custom VPC in AWS, you’ve probably run into the question:
                 "What CIDR block should I use?" ...</p>
 			</td>
