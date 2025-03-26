@@ -1,4 +1,4 @@
-## About Me
+##  About Me
 I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy the process every day.<br>My aim is to deliver high-quality services with the highest standards and cutting-edge DevOps technologies to make people's lives easier.
 
 
@@ -6,7 +6,7 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
  1. [AWS Projects](https://github.com/shahinam2/AWS-Projects)
  2. [PDFPal (Backend only)](https://github.com/shahinam2/PDFPal-Backend)
 
-## Latest Blog Posts
+## 📝 Latest Blog Posts
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
