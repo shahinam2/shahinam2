@@ -2,7 +2,7 @@
 I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy the process every day.<br>My aim is to deliver high-quality services with the highest standards and cutting-edge DevOps technologies to make people's lives easier.
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Projects (Newest to Oldest)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Projects
  1. [AWS DevOps Projects](https://github.com/shahinam2/AWS-DevOps-Projects)
  2. [PDFPal (Backend only)](https://github.com/shahinam2/PDFPal-Backend)
 
