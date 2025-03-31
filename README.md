@@ -110,9 +110,5 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahin-hemmati) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cl0udfriendly)
 [![DevOpsDetours.com](https://img.shields.io/badge/Website-%23121011.svg?logo=web&logoColor=white)](https://devopsdetours.com) [![Email](https://img.shields.io/badge/Email-%23121011.svg?logo=gmail&logoColor=white)](mailto:shahin.hemmati@devopsdetours.com)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> DevOps Roadmap Progress 
-[![roadmap.sh](https://roadmap.sh/card/tall/64d8fb6faa497d7fa530069b?variant=dark)](https://roadmap.sh)
-
-[![](https://visitcount.itsvg.in/api?id=shahinam2&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
