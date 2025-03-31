@@ -3,7 +3,7 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 
 **Contact Me**:   
 Email: shahin.hemmati@devopsdetours.com  
-LinkedIn: linkedin.com/in/shahin-hemmati
+LinkedIn: [linkedin.com/in/shahin-hemmati](https://www.linkedin.com/in/shahin-hemmati/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Projects
  1. [AWS DevOps Projects](https://github.com/shahinam2/AWS-DevOps-Projects)
