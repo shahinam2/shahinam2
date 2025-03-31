@@ -1,6 +1,8 @@
 ##  About Me
 I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy the process every day.<br>My aim is to deliver high-quality services with the highest standards and cutting-edge DevOps technologies to make people's lives easier.
 
+**Contact Me**:   
+[![Email](https://img.shields.io/badge/Email-%23121011.svg?logo=gmail&logoColor=white)](mailto:shahin.hemmati@devopsdetours.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahin-hemmati)  
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Projects
  1. [AWS DevOps Projects](https://github.com/shahinam2/AWS-DevOps-Projects)
@@ -106,9 +108,7 @@ I'm a curious Geek with an insatiable thirst to learn new technologies and enjoy
 ![ELK](https://img.shields.io/badge/ELK-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Checkmk](https://img.shields.io/badge/Checkmk-%233D9A3F.svg?style=for-the-badge&logo=checkmk&logoColor=white)
 
-## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahin-hemmati) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cl0udfriendly)
-[![DevOpsDetours.com](https://img.shields.io/badge/Website-%23121011.svg?logo=web&logoColor=white)](https://devopsdetours.com) [![Email](https://img.shields.io/badge/Email-%23121011.svg?logo=gmail&logoColor=white)](mailto:shahin.hemmati@devopsdetours.com)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
