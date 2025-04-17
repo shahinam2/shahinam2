@@ -53,63 +53,15 @@ LinkedIn: [linkedin.com/in/shahin-hemmati](https://www.linkedin.com/in/shahin-he
 
 ## 💻 Tech Stack
 
-### Cloud Providers
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### CI/CD Tools
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### DevOps Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/docker_swarm-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Nexus](https://img.shields.io/badge/nexus-%231A1918.svg?style=for-the-badge&logo=sonatype&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
-
-### Infrastructure as Code (IaC)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-%232671E5.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Pulumi](https://img.shields.io/badge/pulumi-%23F37821.svg?style=for-the-badge&logo=pulumi&logoColor=white)
-![Boto3](https://img.shields.io/badge/Boto3-%2300BFFF.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-### Programming Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Web Servers / Reverse Proxies
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Caddy](https://img.shields.io/badge/caddy-%23E74E3C.svg?style=for-the-badge&logo=caddy&logoColor=white)
-![Traefik](https://img.shields.io/badge/traefik-%23FFD43B.svg?style=for-the-badge&logo=traefik&logoColor=white)
-
-### Observability & Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Checkmk](https://img.shields.io/badge/Checkmk-%233D9A3F.svg?style=for-the-badge&logo=checkmk&logoColor=white)
-
-
+| Category                   | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cloud Providers            | <img src="https://img.shields.io/badge/-AWS-FF9900?&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white" alt="DigitalOcean"/>                                                                                                                                                                                                                                                                                                                                                                                                          |
+| CI/CD Tools                | <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white" alt="GitLab CI"/> <img src="https://img.shields.io/badge/-Jenkins-D24939?&logo=jenkins&logoColor=white" alt="Jenkins"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| DevOps Tools               | <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible&logoColor=white" alt="Ansible"/> <img src="https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white" alt="Maven"/> <img src="https://img.shields.io/badge/-Nexus-1A1918?&logo=sonatype&logoColor=white" alt="Nexus"/> <img src="https://img.shields.io/badge/-Vault-000000?&logo=vault&logoColor=white" alt="HashiCorp Vault"/> <img src="https://img.shields.io/badge/-Vagrant-1563FF?&logo=vagrant&logoColor=white" alt="Vagrant"/> <img src="https://img.shields.io/badge/-Packer-02A8EF?&logo=packer&logoColor=white" alt="Packer"/>   |
+| Infrastructure as Code     | <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"/> <img src="https://img.shields.io/badge/-CloudFormation-FF9900?logo=amazon-aws&logoColor=white" alt="CloudFormation"/> <img src="https://img.shields.io/badge/-Pulumi-512BD4?&logo=pulumi&logoColor=white" alt="Pulumi"/> <img src="https://img.shields.io/badge/-Boto3-00BFFF?&logo=amazon-aws&logoColor=white" alt="Boto3"/>                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Programming                | <img src="https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-Flask-000000?&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/-Bash-4EAA25?&logo=gnu-bash&logoColor=white" alt="Bash"/>                                                                                                                                                                                                                   |
+| Databases                  | <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/-Amazon%20DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white" alt="Amazon DynamoDB"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/-SQLite-003B57?&logo=sqlite&logoColor=white" alt="SQLite"/>                                                                                                                                                                                                                                                                                                                                                                                                |
+| Web Servers                | <img src="https://img.shields.io/badge/-Apache-D22128?&logo=apache&logoColor=white" alt="Apache"/> <img src="https://img.shields.io/badge/-Nginx-009639?&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/-Caddy-5E8C31?&logo=caddy&logoColor=white" alt="Caddy"/> <img src="https://img.shields.io/badge/-Traefik-EE6C4D?&logo=traefik&logoColor=white" alt="Traefik"/>                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Monitoring                 | <img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/> <img src="https://img.shields.io/badge/-Grafana-F46800?&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/-ELK%20Stack-005571?logo=elastic&logoColor=white" alt="ELK Stack"/> <img src="https://img.shields.io/badge/-Checkmk-3D9A3F?&logo=checkmk&logoColor=white" alt="Checkmk"/>                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
