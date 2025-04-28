@@ -13,6 +13,14 @@ LinkedIn: [linkedin.com/in/shahin-hemmati](https://www.linkedin.com/in/shahin-he
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1745853015392/4f3ee15c-59ed-4724-a59c-f5b0c159af2a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="500" height="auto" /></td>
+			<td>
+				<sup>Apr 28, 2025 - 12 min read</sup><br />
+				<b><a href="https://devopsdetours.com/aws-vpc-subnetting-guide-step-by-step-planning-made-easy-with-visual-tools" target="_blank">AWS NAT Cost Reduction Strategies</a></b>
+				<p>Navigating AWS NAT options isn’t just about plugging a connectivity hole – it’s about balancing cost, reliability, and complexity for your specific needs. Here’s a quick recap and...</p>
+			</td>
+	</tr>
+	<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742832378884/e5d0bb47-1bab-441f-a300-5f9564bacfd9.png" width="500" height="auto" /></td>
 			<td>
 				<sup>Mar 24, 2025 - 11 min read</sup><br />
@@ -20,7 +28,7 @@ LinkedIn: [linkedin.com/in/shahin-hemmati](https://www.linkedin.com/in/shahin-he
 				<p>If you've ever tried creating a custom VPC in AWS, you’ve probably run into the question:
                 "What CIDR block should I use?" ...</p>
 			</td>
-		</tr>
+	</tr>
 <tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739137627783/a24a01a5-ea8b-44fb-9b0a-8152ecafdccf.png" width="500" height="auto" /></td>
 			<td>
