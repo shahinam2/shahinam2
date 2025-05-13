@@ -73,3 +73,7 @@ LinkedIn: [linkedin.com/in/shahin-hemmati](https://www.linkedin.com/in/shahin-he
 | Monitoring                 | <img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/> <img src="https://img.shields.io/badge/-Grafana-F46800?&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/-ELK%20Stack-005571?logo=elastic&logoColor=white" alt="ELK Stack"/> <img src="https://img.shields.io/badge/-Checkmk-3D9A3F?&logo=checkmk&logoColor=white" alt="Checkmk"/>                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+[![Shahin Hemmati profile views](https://u8views.com/api/v1/github/profiles/32401073/views/day-week-month-total-count.svg)](https://u8views.com/github/shahinam2)
