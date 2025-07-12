@@ -84,4 +84,12 @@ LinkedIn: [linkedin.com/in/shahin-hemmati](https://www.linkedin.com/in/shahin-he
 
 ---
 
+### Profile View Counts
 [![Shahin Hemmati profile views](https://u8views.com/api/v1/github/profiles/32401073/views/day-week-month-total-count.svg)](https://u8views.com/github/shahinam2)
+
+---
+
+### Referral
+Get $200 free cloud credits from DigitalOcean using my link:  
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=921744a5556b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
