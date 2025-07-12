@@ -15,7 +15,7 @@ LinkedIn: [linkedin.com/in/shahin-hemmati](https://www.linkedin.com/in/shahin-he
 	<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1752308392314/25995822-24ef-4fab-afa4-f88a806d9e89.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="500" height="auto" /></td>
 			<td>
-				<sup>Apr 28, 2025 - 10 min read</sup><br />
+				<sup>Jul 11, 2025 - 10 min read</sup><br />
 				<b><a href="https://devopsdetours.com/are-kubernetes-secrets-really-secure" target="_blank">Are Kubernetes Secrets Really Secure? [PDF]</a></b>
 				<p>Explore the security implications of using Kubernetes Secrets in your cloud-native applications...</p>
 			</td>
